@@ -9,7 +9,7 @@
         <file id="5" name="coach_05.png" width="512" height="512" pivot_x="0" pivot_y="1"/>
         <file id="6" name="coach_06.png" width="1024" height="1024" pivot_x="0.5" pivot_y="0.5"/>
         <file id="7" name="coach_07.png" width="512" height="1024" pivot_x="0" pivot_y="1"/>
-        <file id="8" name="space_portals.png" width="1920" height="1080" pivot_x="0.5" pivot_y="0.5"/>
+        <file id="8" name="space_portals.jpg" width="1920" height="1080" pivot_x="0.5" pivot_y="0.5"/>
         <file id="9" name="small_tile.png" width="512" height="512" pivot_x="0.5" pivot_y="0.5"/>
         <file id="10" name="yelow_tile.png" width="2048" height="2048" pivot_x="0.5" pivot_y="0.5"/>
         <file id="11" name="pink_tile.png" width="2048" height="2048" pivot_x="0.5" pivot_y="0.5"/>
